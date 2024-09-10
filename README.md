@@ -12,4 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BhargavCodage&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavCodage&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📬 &nbsp; How to reach me:
+<a href="mailto:bhargavcodage@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
