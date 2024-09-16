@@ -14,3 +14,5 @@
 
 ## 📬 &nbsp; How to reach me:
 <a href="mailto:bhargavcodage@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
+![Welcome](https://visite-counter.onrender.com/profile "Visite Counter")
